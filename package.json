@@ -1,0 +1,28 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "dateq app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "underscore": "~1.5.*",
+    "mongoose": "~3.8.*",
+    "async": "~0.*",
+    "moment": "~2.5.1"
+  },
+  "description": "dateqserver ===========",
+  "main": "dateq.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whiteplan/dateqserver.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/whiteplan/dateqserver/issues"
+  },
+  "homepage": "https://github.com/whiteplan/dateqserver"
+}
